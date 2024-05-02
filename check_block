@@ -1,0 +1,2 @@
+a=input("Enter ypur name:")
+print(a)
